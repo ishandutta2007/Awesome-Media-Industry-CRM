@@ -1,6 +1,6 @@
 # Awesome-Media-Industry-CRM
 
-# Top Media Industry CRM Tools Ecosystem
+## Top Media Industry CRM Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Advertising Sales, Subscriber Lifecycle & Audience Monetization*  
