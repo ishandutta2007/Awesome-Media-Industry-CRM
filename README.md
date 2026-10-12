@@ -74,7 +74,7 @@ The table below outlines the primary enterprise and mid-market SaaS platforms pu
 
 Explore production-grade open-source CRM platforms, membership engines, marketing automation frameworks, and audience data management tools for media organizations. Ideal for independent publishers, newsrooms, investigative collectives, and privacy-conscious media companies seeking technological autonomy.
 
-> **Sorted by GitHub Stars in descending order.**
+> **Sorted by GitHub_Stars in descending order.**
 
 1. **[Twenty](https://github.com/twentyhq/twenty)** <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Stars" /></a>  
    *Modern, lightning-fast open-source CRM with customizable relational schemas, GraphQL/REST APIs, and lead-to-deal pipelines. Highly adaptable for managing media advertising deals, sponsor accounts, and partner agency relationships.*
@@ -164,7 +164,7 @@ Contributions from media technologists, broadcast engineers, ad ops specialists,
 2. 🌿 **Create a feature branch** (`git checkout -b feature/new-media-crm-entry`).
 3. 📝 **Add or update entries** following the established format:
    - For SaaS tools: provide verified starting prices, specific trial terms, and company revenue/valuation figures.
-   - For Open-Source tools: include official GitHub repository link and star badge syntax.
+   - For Open-Source tools: include official GitHub repository link and Stars_Badge syntax.
 4. 🚀 **Submit a Pull Request** with a concise description of your update.
 
 Please ensure all product descriptions remain factual, neutral, and link directly to official project repositories or vendor platforms.
