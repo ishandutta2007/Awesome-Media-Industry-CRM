@@ -1,5 +1,14 @@
 # Awesome-Media-Industry-CRM
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Industry-CRM?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Media-Industry-CRM?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Media-Industry-CRM?color=blue" alt="License" />
+  <a href="https://github.com/ishandutta2007/Awesome-Media-Industry-CRM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
 ## Top Media Industry CRM Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
